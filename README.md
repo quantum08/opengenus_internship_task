@@ -14,3 +14,8 @@
 1- BeautifulSoup
 
 2- urllib
+
+
+Execute the code.py file and Enter the url of which you want information and it show result like this
+
+![Screenshot](internship.png)
